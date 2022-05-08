@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Vulnerability Managment With Nessus](https://github.com/CyberSain/NessusLab)
-- [File Integrity Monitor](https://github.com/CyberSain/Algorithms-Practice)
+- [File Integrity Monitor](https://github.com/CyberSain/FIM)
 - [Keylogger with Python](https://github.com/CyberSain/Keylogger)
 
 
