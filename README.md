@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
-- [Coffee Shop Website](https://github.com/CyberSain/Algorithms-Practice)
+- [Coffee Shop Website](https://github.com/CyberSain/CoffeeShop)
 
 
 
