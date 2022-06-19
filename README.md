@@ -17,6 +17,7 @@
 
 <h2>🔭 I’m currently working on</h2>
 
+- Comptia Security+
 - TryHackMe Web Fundamentals
 
 
