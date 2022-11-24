@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Failed RDP with Microsoft Sentinel](https://github.com/HussainV2/SentinelLab)
-<!-- [Vulnerability Managment With Nessus](https://github.com/HussainV2/NessusLab)-->
+- [Vulnerability Managment With Nessus](https://github.com/HussainV2/NessusLab)
 - [Security Risk Managment Paper](https://github.com/HussainV2/ResearchPaper)
 
 
