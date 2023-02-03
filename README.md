@@ -4,7 +4,7 @@
 
 - [Failed RDP with Microsoft Sentinel](https://github.com/HussainV2/SentinelLab)
 - [Vulnerability Managment With Nessus](https://github.com/HussainV2/NessusLab)
-- [Security Risk Managment Paper](https://github.com/HussainV2/ResearchPaper)
+- [Security Risk Management Paper](https://github.com/HussainV2/ResearchPaper)
 
 
 <h2>👨‍💻 Web Development Projects:</h2>
