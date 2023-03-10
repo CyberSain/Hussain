@@ -1,5 +1,10 @@
 <h1>Hi, I'm Hussain! </h1>
 
+<h2>📜 Certificaitions:</h2>
+
+- CompTIA Security+
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Failed RDP with Microsoft Sentinel](https://github.com/HussainV2/SentinelLab)
@@ -12,11 +17,9 @@
 - [Coffee Shop Website](https://github.com/HussainV2/CoffeeShop)
 
 
-
-
 <h2>🔭 I’m currently working on</h2>
 
-- CompTIA Security+
+- TryHackMe SOC Level 1
 
 
 
