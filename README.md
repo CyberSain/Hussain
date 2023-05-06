@@ -19,6 +19,7 @@
 
 <h2>🔭 I’m currently working on</h2>
 
+- TryHackMe Web Fundamentals
 - TryHackMe SOC Level 1
 
 
