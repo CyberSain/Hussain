@@ -3,6 +3,7 @@
 <h2>📜 Certificaitions:</h2>
 
 - CompTIA Security+
+- TryHackMe SOC Level 1
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -17,18 +18,20 @@
 - [Coffee Shop Website](https://github.com/HussainV2/CoffeeShop)
 
 
+<h2>🌱 I’m currently learning</h2>
+
+-Python
+
+
 <h2>🔭 I’m currently working on</h2>
 
-- TryHackMe SOC Level 1
 - TryHackMe Web Fundamentals
 
 
 
 
 <!--
-<h2>🌱 I’m currently learning</h2>
 
--Python
 -Go
 
 <h2> 🤳 Connect with me:</h2>
