@@ -20,7 +20,7 @@
 
 <h2>🌱 I’m currently learning</h2>
 
--Python
+- Python
 
 
 <h2>🔭 I’m currently working on</h2>
