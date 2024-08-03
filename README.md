@@ -17,17 +17,17 @@
 
 - [Coffee Shop Website](https://github.com/HussainV2/CoffeeShop)
 
+<h2>🔭 I’m currently working on</h2>
+
+- AWS Certified Cloud Practitioner
+
+
+<!--
 
 <h2>🌱 I’m currently learning</h2>
 
 - Python
-
-<!--
-<h2>🔭 I’m currently working on</h2>
-
 - TryHackMe Web Fundamentals
-
-
 -->
 
 <!--
