@@ -20,6 +20,7 @@
 <h2>🔭 I’m currently working on</h2>
 
 - AWS Certified Cloud Practitioner
+- LetsDefend SOC Analyst Learning Path
 
 
 <!--
