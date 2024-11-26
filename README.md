@@ -3,6 +3,8 @@
 <h2>📜 Certificaitions:</h2>
 
 - CompTIA Security+
+- AWS Certified Cloud Practitioner
+- LetsDefend SOC Analyst
 - TryHackMe SOC Level 1
 
 
@@ -16,14 +18,13 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - [Coffee Shop Website](https://github.com/HussainV2/CoffeeShop)
-
+<!--
 <h2>🔭 I’m currently working on</h2>
 
-- AWS Certified Cloud Practitioner
-- LetsDefend SOC Analyst Learning Path
+- A
 
 
-<!--
+
 
 <h2>🌱 I’m currently learning</h2>
 
