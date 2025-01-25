@@ -10,15 +10,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<!--- [Automating Endpoint Detection and Incident Response with LimaCharlie and Tines](https://github.com/HussainV2/SOAR-EDR)-->
 - [Failed RDP with Microsoft Sentinel](https://github.com/HussainV2/SentinelLab)
 - [Vulnerability Management With Nessus](https://github.com/HussainV2/NessusLab)
 - [Security Risk Management Paper](https://github.com/HussainV2/ResearchPaper)
 
-
+<!--
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - [Coffee Shop Website](https://github.com/HussainV2/CoffeeShop)
-<!--
+
 <h2>🔭 I’m currently working on</h2>
 
 - A
@@ -28,13 +29,9 @@
 
 <h2>🌱 I’m currently learning</h2>
 
-- Python
-- TryHackMe Web Fundamentals
--->
-
-<!--
-
--Go
+- 
+- 
+-
 
 <h2> 🤳 Connect with me:</h2>
 
